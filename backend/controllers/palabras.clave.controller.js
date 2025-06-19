@@ -4,5 +4,9 @@ export const test_palabrasClave = ()=>{
     console.log("Controlador de palabras clave funciona")
 }
 palabrasClaveModel.create({
-    palabras:""
+    palabras:"xddddddddddddddddd"
 })
+
+export const test = ()=>{
+    console.log("Se subio a la base de datos")
+}
